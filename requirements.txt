@@ -1,0 +1,10 @@
+mediapipe==0.10.14
+opencv-python
+opencv-contrib-python
+numpy
+pandas
+scikit-learn
+pyttsx3
+PyQt5
+SpeechRecognition
+pyaudio
